@@ -5,8 +5,8 @@
 }
 header{
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5) ),url(../408975.jpg);
-	
-        height:120vh;
+	height:120vh;
+	background-size:cover;
 	background-attachment: fixed;
 	background-position: fixed;
 }
