@@ -3,12 +3,12 @@
 	padding: 0;
 	font-family: century gothic;
 }
-header{
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5) ),url(../408975.jpg);
-	height:120vh;
+header{	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5) ),url(../408975.jpg);
+	height: 120vh;
 	background-size:cover;
-	background-attachment: fixed;
 	background-position: fixed;
+
+	
 }
 ul{
 	margin-right: 10px;
